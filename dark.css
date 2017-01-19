@@ -504,7 +504,7 @@ body .yt-uix-button-text[disabled] {
 #watch-sidebar .video-list-item .title,
 .autoplay-bar .checkbox-on-off, /* Autoplay Label */
 .stats-sub-header /* Video Stats */ {
-	color: white !important;
+	color: #bababa !important;
 }
 .yt-tile-default.video-list-item a:hover .title,
 #watch-sidebar .video-list-item:hover .title {
@@ -1011,7 +1011,7 @@ body #masthead-expanded-container,
 #watch-headline-title,
 .yt-uix-expander-head
 {
-	color: white !important;
+	color: #bababa !important;
 }
 
 #watch7-sidebar{
